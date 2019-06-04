@@ -1,0 +1,4 @@
+{
+    "image": "node:10",
+    "appPort": 3000
+}
